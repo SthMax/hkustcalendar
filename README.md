@@ -1,10 +1,10 @@
 # HKUST Calendar Converter
-Huge Thanks to https://github.com/rmmh/uiuccalendar for inspiration
+Huge Thanks to https://github.com/rmmh/uiuccalendar for inspiration.
 
 Converting HKUST course listings into importable calendar files
 
 ## License information
-<img src="https://raw.githubusercontent.com/mfreiholz/Qt-Advanced-Docking-System/master/license.png"
+<img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"
      alt="License.png" />
 
 This projects uses the [WTFPL license](http://www.wtfpl.net/)
