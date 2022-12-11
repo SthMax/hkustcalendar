@@ -1,7 +1,10 @@
+#Idea Halted, find out that the school system can already export .ics files.
+
 # HKUST Calendar Converter
 Huge Thanks to https://github.com/rmmh/uiuccalendar for inspiration.
 
 Converting HKUST course listings into importable calendar files
+
 
 ## License information
 <img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"
