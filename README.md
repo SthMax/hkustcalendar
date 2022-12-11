@@ -1,4 +1,4 @@
-#Idea Halted, find out that the school system can already export .ics files.
+# Idea Halted, find out that the school system can already export .ics files.
 
 # HKUST Calendar Converter
 Huge Thanks to https://github.com/rmmh/uiuccalendar for inspiration.
